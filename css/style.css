@@ -296,7 +296,7 @@ a:focus {
 }
 
 .us_section {
-  background-image: url(../image/us-bg.jpg);
+  background-image: url(https://i.im.ge/2023/08/01/98vB8L.server.jpg);<!--- 网页Server的背景 --->
   background-size: cover;
   background-attachment: fixed;
   color: #ffffff;
@@ -343,7 +343,7 @@ a:focus {
 }
 
 .heathy_section {
-  background-image: url(https://i.im.ge/2023/08/01/98vB8L.server.jpg); <!--- 网页中happy的背景 --->
+  background-image: url(/);
   background-size: cover;
   background-attachment: fixed;
   color: #ffffff;
