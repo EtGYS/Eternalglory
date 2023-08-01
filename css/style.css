@@ -69,7 +69,7 @@ body {
   -webkit-box-direction: normal;
   -ms-flex-direction: column;
   flex-direction: column;
-  background-image: url(../image/hero-bg.jpg);
+  background-image: url(https://i.im.ge/2023/08/01/98JMIx.home.md.jpg); <!-- 首页背景 -->
   background-size: cover;
   background-attachment: fixed;
 }
@@ -343,7 +343,7 @@ a:focus {
 }
 
 .heathy_section {
-  background-image: url(../image/healthy-bg.jpg);
+  background-image: url(https://i.im.ge/2023/08/01/98veMG.happy.jpg); <!--- 网页中happy的背景 --->
   background-size: cover;
   background-attachment: fixed;
   color: #ffffff;
@@ -567,7 +567,7 @@ a:focus {
 }
 
 .info_items .item .img-box.box-1 {
-  background-image: url(../image/server.png);
+  background-image: url(https://i.im.ge/2023/08/01/98vB8L.server.jpg); <!--- 网页中Server的背景 --->
 }
 
 .info_items .item .img-box.box-2 {
